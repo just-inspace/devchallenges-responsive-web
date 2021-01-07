@@ -1,0 +1,43 @@
+html {
+  color: #333333;
+  font-family: monospace;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+footer {
+  font-family: Montserrat;
+  font-size: 0.8rem;
+}
+
+.article-content {
+  color: #4f4f4f;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.9rem;
+}
+
+.article-header {
+  font-size: 3.6rem;
+  line-height: 5.2rem;
+}
+
+.article-img {
+  height: 445px;
+  width: 540px;
+}
+
+.button {
+  background-color: #333333;
+  color: #ffffff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 1.3rem 2.4rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
